@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">Fullstack developer from Turkey.</h3>
+<h3 align="center">Software Engineer from Turkey.</h3>
 
 - 📫 How to reach me **berkaygursoy@gmail.com**
 
